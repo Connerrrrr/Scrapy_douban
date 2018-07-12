@@ -6,7 +6,7 @@ This project is a movie crawler based on scrapy framework, which retrieving deta
 
 ### Prerequisites
 
-Before running this crawler, you need to install scrapy framework using (if on Windows)
+Before running this crawler, you need to install scrapy framework using (if pip is installed)
 
 ```
 pip install Scrapy
